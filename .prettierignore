@@ -1,0 +1,10 @@
+public/build
+node_modules
+vendor
+storage
+bootstrap
+public/*.php
+resources/font
+resources/views
+**/*.php
+
